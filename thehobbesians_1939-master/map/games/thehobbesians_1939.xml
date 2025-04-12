@@ -2206,6 +2206,7 @@
       <unitPlacement unitType="aaGun" territory="Gibraltar" quantity="1" owner="British"/>
       <unitPlacement unitType="fighter" territory="Gibraltar" quantity="1" owner="British"/>
 	  <unitPlacement unitType="infantry" territory="Syria" quantity="1" owner="British"/>
+	  <unitPlacement unitType="infantry" territory="Iran" quantity="1" owner="British"/>
       <!-- Japanese  Unit Placements -->
       <unitPlacement unitType="transport" territory="SZ 74 Sea of Japan" quantity="1" owner="Japanese"/>
       <unitPlacement unitType="destroyer" territory="SZ 74 Sea of Japan" quantity="1" owner="Japanese"/>
@@ -2340,7 +2341,6 @@
       <unitPlacement unitType="fighter" territory="France" quantity="1"/>
       <unitPlacement unitType="factory" territory="France" quantity="1"/>
       <unitPlacement unitType="infantry" territory="Vichy France" quantity="6"/>
-      <unitPlacement unitType="armour" territory="Vichy France" quantity="1"/>
       <unitPlacement unitType="infantry" territory="Norway" quantity="2"/>
     </unitInitialize>
     <resourceInitialize>
