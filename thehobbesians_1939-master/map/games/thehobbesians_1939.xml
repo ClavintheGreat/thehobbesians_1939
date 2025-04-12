@@ -2456,6 +2456,6 @@
     <!-- Map Name: also used for map utils when asked -->
     <property name="mapName" value="thehobbesians_1939" editable="false"/>
     <!-- notes appear in the notes menu in the main screen, format as html -->
-    <property name="notes" value=" This is thehobbesian's mod for the bigworld 1942 map.  Was edited from Smallman's 1939, with a focus on improving balance and promoting  strategy variety."/>
+    <property name="notes" value="== Big World : TheHobbesians 1939 == &lt;br&gt;A variation of Smallmans variation of Nekhanets variation of Big World."/>
   </propertyList>
 </game>
