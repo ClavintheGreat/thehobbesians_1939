@@ -2259,7 +2259,7 @@
       <unitPlacement unitType="fighter" territory="Southwestern United States" quantity="1" owner="Americans"/>
       <unitPlacement unitType="infantry" territory="Alaska" quantity="2" owner="Americans"/>
       <unitPlacement unitType="factory" territory="Hawaiian Islands" quantity="1" owner="Americans"/>
-      <unitPlacement unitType="infantry" territory="Hawaiian Islands" quantity="4" owner="Americans"/>
+      <unitPlacement unitType="infantry" territory="Hawaiian Islands" quantity="3" owner="Americans"/>
       <unitPlacement unitType="fighter" territory="Hawaiian Islands" quantity="1" owner="Americans"/>
       <unitPlacement unitType="factory" territory="Midwestern United States" quantity="1" owner="Americans"/>
       <unitPlacement unitType="artillery" territory="Midwestern United States" quantity="2" owner="Americans"/>
@@ -2275,7 +2275,6 @@
       <unitPlacement unitType="infantry" territory="North Philippines" quantity="2" owner="Americans"/>
       <unitPlacement unitType="infantry" territory="South Philippines" quantity="2" owner="Americans"/>
 	  <unitPlacement unitType="infantry" territory="Midway Island" quantity="1" owner="Americans"/>
-	  <unitPlacement unitType="infantry" territory="Wake" quantity="1" owner="Americans"/>
 	  <unitPlacement unitType="infantry" territory="Guam" quantity="1" owner="Americans"/>
       <!-- Chinese  Unit Placements -->
       <unitPlacement unitType="infantry" territory="Inner Mongolia" quantity="1" owner="Chinese"/>
@@ -2290,7 +2289,6 @@
       <unitPlacement unitType="armour" territory="Western Sinkiang" quantity="1" owner="Chinese"/>
       <unitPlacement unitType="infantry" territory="Eastern Sinkiang" quantity="2" owner="Chinese"/>
       <unitPlacement unitType="infantry" territory="Szechwan" quantity="1" owner="Chinese"/>
-      <unitPlacement unitType="infantry" territory="Yunnan" quantity="1" owner="Chinese"/>
 	  <unitPlacement unitType="infantry" territory="Kwangtung" quantity="1" owner="Chinese"/>
       <unitPlacement unitType="fighter" territory="Yunnan" quantity="1" owner="Americans"/>
       <!-- Neutral  Unit Placements -->
