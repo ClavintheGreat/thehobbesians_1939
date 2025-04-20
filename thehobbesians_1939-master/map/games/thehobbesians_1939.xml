@@ -1574,7 +1574,7 @@
       <option name="production" value="3"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Kansu" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="production" value="4"/>
+      <option name="production" value="3"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Java" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="2"/>
@@ -1726,7 +1726,7 @@
       <option name="capital" value="Americans"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Western Sinkiang" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="production" value="3"/>
+      <option name="production" value="4"/>
       <option name="capital" value="Chinese"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Eastern Sinkiang" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
@@ -2309,15 +2309,13 @@
       <unitPlacement unitType="infantry" territory="Angola" quantity="1"/>
       <unitPlacement unitType="infantry" territory="Mozambique" quantity="1"/>
       <unitPlacement unitType="infantry" territory="Arabian Peninsula" quantity="5"/>
-      <unitPlacement unitType="infantry" territory="Algeria" quantity="2"/>
-      <unitPlacement unitType="armour" territory="Algeria" quantity="1"/>
-      <unitPlacement unitType="infantry" territory="Macedonia" quantity="3"/>
+      <unitPlacement unitType="infantry" territory="Algeria" quantity="1"/>
+      <unitPlacement unitType="infantry" territory="Macedonia" quantity="2"/>
       <unitPlacement unitType="fighter" territory="Macedonia" quantity="1"/>
       <unitPlacement unitType="infantry" territory="Morocco" quantity="3"/>
       <unitPlacement unitType="infantry" territory="Ireland" quantity="2"/>
       <unitPlacement unitType="infantry" territory="Cape Verde Islands" quantity="1"/>
-      <unitPlacement unitType="infantry" territory="Switzerland" quantity="4"/>
-      <unitPlacement unitType="infantry" territory="Azores" quantity="2"/>
+      <unitPlacement unitType="infantry" territory="Switzerland" quantity="5"/>
       <unitPlacement unitType="infantry" territory="Portugal" quantity="3"/>
       <unitPlacement unitType="infantry" territory="Southern South America" quantity="3"/>
       <unitPlacement unitType="infantry" territory="Sweden" quantity="3"/>
@@ -2334,12 +2332,12 @@
       <unitPlacement unitType="infantry" territory="Southern Brazil" quantity="4"/>
       <unitPlacement unitType="armour" territory="Southern Brazil" quantity="1"/>
       <unitPlacement unitType="infantry" territory="Finland" quantity="1"/>
-      <unitPlacement unitType="infantry" territory="France" quantity="8"/>
+      <unitPlacement unitType="infantry" territory="France" quantity="6"/>
       <unitPlacement unitType="armour" territory="France" quantity="1"/>
       <unitPlacement unitType="fighter" territory="France" quantity="1"/>
       <unitPlacement unitType="factory" territory="France" quantity="1"/>
-      <unitPlacement unitType="infantry" territory="Vichy France" quantity="6"/>
-      <unitPlacement unitType="infantry" territory="Norway" quantity="2"/>
+      <unitPlacement unitType="infantry" territory="Vichy France" quantity="5"/>
+      <unitPlacement unitType="infantry" territory="Norway" quantity="1"/>
     </unitInitialize>
     <resourceInitialize>
       <resourceGiven player="British" resource="PUs" quantity="41"/>
