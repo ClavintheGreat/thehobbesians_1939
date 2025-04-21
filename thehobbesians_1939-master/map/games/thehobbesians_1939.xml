@@ -2144,6 +2144,8 @@
       <unitPlacement unitType="destroyer" territory="SZ 10 North Sea" quantity="1" owner="British"/>
       <unitPlacement unitType="battleship" territory="SZ 10 North Sea" quantity="1" owner="British"/>
       <unitPlacement unitType="cruiser" territory="SZ 14 North Atlantic" quantity="1" owner="British"/>
+	  <unitPlacement unitType="cruiser" territory="SZ 30 Gulf of Mexico" quantity="1" owner="British"/>
+	  <unitPlacement unitType="cruiser" territory="SZ 45 Mid Atlantic" quantity="1" owner="British"/>
       <unitPlacement unitType="destroyer" territory="SZ 14 North Atlantic" quantity="1" owner="British"/>
       <unitPlacement unitType="transport" territory="SZ 16 North Atlantic" quantity="1" owner="British"/>
       <unitPlacement unitType="cruiser" territory="SZ 16 North Atlantic" quantity="1" owner="British"/>
