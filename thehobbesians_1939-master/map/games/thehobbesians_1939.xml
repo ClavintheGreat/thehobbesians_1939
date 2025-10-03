@@ -2097,10 +2097,9 @@
       <unitPlacement unitType="infantry" territory="Libya" quantity="2" owner="Italians"/>
       <unitPlacement unitType="artillery" territory="Libya" quantity="1" owner="Italians"/>
       <unitPlacement unitType="armour" territory="Libya" quantity="1" owner="Italians"/>
-      <unitPlacement unitType="armour" territory="Libya" quantity="2" owner="Germans"/>
+      <unitPlacement unitType="armour" territory="Libya" quantity="1" owner="Germans"/>
       <unitPlacement unitType="infantry" territory="Libya" quantity="2" owner="Germans"/>
       <unitPlacement unitType="fighter" territory="Libya" quantity="1" owner="Germans"/>
-      <unitPlacement unitType="submarine" territory="SZ 55 Red Sea" quantity="1" owner="Italians"/>
       <unitPlacement unitType="submarine" territory="SZ 35 East Atlantic" quantity="1" owner="Italians"/>
       <!-- Germans  Unit Placements -->
       <unitPlacement unitType="submarine" territory="SZ 6 Norwegian Sea" quantity="1" owner="Germans"/>
@@ -2207,7 +2206,7 @@
       <unitPlacement unitType="infantry" territory="Gibraltar" quantity="1" owner="British"/>
       <unitPlacement unitType="aaGun" territory="Gibraltar" quantity="1" owner="British"/>
       <unitPlacement unitType="fighter" territory="Gibraltar" quantity="1" owner="British"/>
-	  <unitPlacement unitType="infantry" territory="Syria" quantity="1" owner="British"/>
+	  <unitPlacement unitType="infantry" territory="Syria" quantity="2" owner="British"/>
 	  <unitPlacement unitType="infantry" territory="Iran" quantity="1" owner="British"/>
       <!-- Japanese  Unit Placements -->
       <unitPlacement unitType="transport" territory="SZ 74 Sea of Japan" quantity="1" owner="Japanese"/>
