@@ -2290,7 +2290,6 @@
       <unitPlacement unitType="armour" territory="Western Sinkiang" quantity="1" owner="Chinese"/>
       <unitPlacement unitType="infantry" territory="Eastern Sinkiang" quantity="2" owner="Chinese"/>
       <unitPlacement unitType="infantry" territory="Szechwan" quantity="1" owner="Chinese"/>
-	  <unitPlacement unitType="infantry" territory="Kwangtung" quantity="1" owner="Chinese"/>
       <unitPlacement unitType="fighter" territory="Yunnan" quantity="1" owner="Americans"/>
       <!-- Neutral  Unit Placements -->
       <unitPlacement unitType="infantry" territory="Hungary-Romania" quantity="5"/>
