@@ -2194,7 +2194,7 @@
       <unitPlacement unitType="infantry" territory="Southern Africa" quantity="3" owner="British"/>
       <unitPlacement unitType="armour" territory="Southern Africa" quantity="1" owner="British"/>
       <unitPlacement unitType="factory" territory="Southern Africa" quantity="1" owner="British"/>
-      <unitPlacement unitType="infantry" territory="Egypt" quantity="2" owner="British"/>
+      <unitPlacement unitType="infantry" territory="Egypt" quantity="3" owner="British"/>
       <unitPlacement unitType="armour" territory="Egypt" quantity="2" owner="British"/>
       <unitPlacement unitType="fighter" territory="Egypt" quantity="1" owner="British"/>
       <unitPlacement unitType="aaGun" territory="Egypt" quantity="1" owner="British"/>
